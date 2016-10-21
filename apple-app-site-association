@@ -3,9 +3,10 @@
     "apps": [],
     "details": [
       {
-        "appID": "7VKZYG8P42.by.tut.jobs.employee",
+        "appID": "7VKZYG8P42.ru.hh.iphone",
         "paths": [
           "/search/vacancy*",
+          "/vacancies*",
           "/vacancy/*",
           "/employer/*"
         ]
