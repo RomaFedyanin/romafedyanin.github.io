@@ -11,6 +11,34 @@
           "/employer/*",
           "/resume/*"
         ]
+      },
+      {
+        "appID": "7VKZYG8P42.ru.hh.emp",
+        "paths": [
+          "/search/resume*",
+          "/resume/*",
+          "/vacancy/*"
+        ]
+      },
+      {
+        "appID": "7VKZYG8P42.by.tut.jobs.employee",
+        "paths": [
+          "/search/vacancy*",
+          "/vacancies*",
+          "/vacancy/*",
+          "/employer/*",
+          "/resume/*"
+        ]
+      },
+      {
+        "appID": "7VKZYG8P42.az.day.jobs.applicant",
+        "paths": [
+          "/search/vacancy*",
+          "/vacancies*",
+          "/vacancy/*",
+          "/employer/*",
+          "/resume/*"
+        ]
       }
     ]
   }
