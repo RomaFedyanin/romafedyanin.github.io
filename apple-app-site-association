@@ -8,16 +8,6 @@
           "/search/vacancy*",
           "/vacancies*",
           "/vacancy/*",
-          "/employer/0*",
-          "/employer/1*",
-          "/employer/2*",
-          "/employer/3*",
-          "/employer/4*",
-          "/employer/5*",
-          "/employer/6*",
-          "/employer/7*",
-          "/employer/8*",
-          "/employer/9*",
           "/resume/*"
         ]
       },
@@ -35,16 +25,6 @@
           "/search/vacancy*",
           "/vacancies*",
           "/vacancy/*",
-          "/employer/0*",
-          "/employer/1*",
-          "/employer/2*",
-          "/employer/3*",
-          "/employer/4*",
-          "/employer/5*",
-          "/employer/6*",
-          "/employer/7*",
-          "/employer/8*",
-          "/employer/9*",
           "/resume/*"
         ]
       },
@@ -54,16 +34,6 @@
           "/search/vacancy*",
           "/vacancies*",
           "/vacancy/*",
-          "/employer/0*",
-          "/employer/1*",
-          "/employer/2*",
-          "/employer/3*",
-          "/employer/4*",
-          "/employer/5*",
-          "/employer/6*",
-          "/employer/7*",
-          "/employer/8*",
-          "/employer/9*",
           "/resume/*"
         ]
       }
