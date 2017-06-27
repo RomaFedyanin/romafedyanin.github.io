@@ -8,7 +8,8 @@
           "/search/vacancy*",
           "/vacancies*",
           "/vacancy/*",
-          "/resume/*"
+          "/resume/*",
+          "/applicant/resume/*"
         ]
       },
       {
@@ -25,7 +26,8 @@
           "/search/vacancy*",
           "/vacancies*",
           "/vacancy/*",
-          "/resume/*"
+          "/resume/*",
+          "/applicant/resume/*"
         ]
       },
       {
@@ -34,7 +36,8 @@
           "/search/vacancy*",
           "/vacancies*",
           "/vacancy/*",
-          "/resume/*"
+          "/resume/*",
+          "/applicant/resume/*"
         ]
       }
     ]
