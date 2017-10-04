@@ -42,7 +42,8 @@
           "/vacancy/*",
           "/resume/*",
           "/applicant/resume/*",
-          "/applicant/resumes"
+          "/applicant/resumes",
+          "/nearby"
         ]
       },
       {
@@ -55,7 +56,8 @@
           "/vacancy/*",
           "/resume/*",
           "/applicant/resume/*",
-          "/applicant/resumes"
+          "/applicant/resumes",
+          "/nearby"
         ]
       }
     ]
