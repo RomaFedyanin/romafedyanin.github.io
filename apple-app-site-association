@@ -1,9 +1,4 @@
 {
-  "webcredentials": {
-    "apps": [
-      "7VKZYG8P42.ru.hh.iphone"
-    ]
-  },
   "applinks": {
     "apps": [],
     "details": [
@@ -15,9 +10,37 @@
           "NOT /vacancies/map",
           "/vacancies*",
           "/vacancy/*",
-          "/resume/*",
           "/applicant/resume/*",
           "/applicant/resumes",
+          "/applicant/autosearch",
+          "/nearby"
+        ]
+      },
+      {
+        "appID": "7VKZYG8P42.by.tut.jobs.employee",
+        "paths": [
+          "/search/vacancy*",
+          "NOT /vacancies_nearby",
+          "NOT /vacancies/map",
+          "/vacancies*",
+          "/vacancy/*",
+          "/applicant/resume/*",
+          "/applicant/resumes",
+          "/applicant/autosearch",
+          "/nearby"
+        ]
+      },
+      {
+        "appID": "7VKZYG8P42.az.day.jobs.applicant",
+        "paths": [
+          "/search/vacancy*",
+          "NOT /vacancies_nearby",
+          "NOT /vacancies/map",
+          "/vacancies*",
+          "/vacancy/*",
+          "/applicant/resume/*",
+          "/applicant/resumes",
+          "/applicant/autosearch",
           "/nearby"
         ]
       },
@@ -35,34 +58,6 @@
           "/search/resume*",
           "/resume/*",
           "/vacancy/*"
-        ]
-      },
-      {
-        "appID": "7VKZYG8P42.by.tut.jobs.employee",
-        "paths": [
-          "/search/vacancy*",
-          "NOT /vacancies_nearby",
-          "NOT /vacancies/map",
-          "/vacancies*",
-          "/vacancy/*",
-          "/resume/*",
-          "/applicant/resume/*",
-          "/applicant/resumes",
-          "/nearby"
-        ]
-      },
-      {
-        "appID": "7VKZYG8P42.az.day.jobs.applicant",
-        "paths": [
-          "/search/vacancy*",
-          "NOT /vacancies_nearby",
-          "NOT /vacancies/map",
-          "/vacancies*",
-          "/vacancy/*",
-          "/resume/*",
-          "/applicant/resume/*",
-          "/applicant/resumes",
-          "/nearby"
         ]
       }
     ]
