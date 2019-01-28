@@ -12,6 +12,7 @@
           "/vacancy/*",
           "/applicant/resume/*",
           "/applicant/resumes",
+          "NOT /applicant/resumes/*/*",
           "/applicant/resumes/*",
           "/applicant/autosearch",
           "/nearby"
@@ -27,6 +28,7 @@
           "/vacancy/*",
           "/applicant/resume/*",
           "/applicant/resumes",
+          "NOT /applicant/resumes/*/*",
           "/applicant/resumes/*",
           "/applicant/autosearch",
           "/nearby"
@@ -42,6 +44,7 @@
           "/vacancy/*",
           "/applicant/resume/*",
           "/applicant/resumes",
+          "NOT /applicant/resumes/*/*",
           "/applicant/resumes/*",
           "/applicant/autosearch",
           "/nearby"
