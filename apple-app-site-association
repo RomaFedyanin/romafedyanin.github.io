@@ -12,6 +12,7 @@
           "/vacancy/*",
           "/applicant/resume/*",
           "/applicant/resumes",
+          "/applicant/resumes/*",
           "/applicant/autosearch",
           "/nearby"
         ]
@@ -26,6 +27,7 @@
           "/vacancy/*",
           "/applicant/resume/*",
           "/applicant/resumes",
+          "/applicant/resumes/*",
           "/applicant/autosearch",
           "/nearby"
         ]
@@ -40,6 +42,7 @@
           "/vacancy/*",
           "/applicant/resume/*",
           "/applicant/resumes",
+          "/applicant/resumes/*",
           "/applicant/autosearch",
           "/nearby"
         ]
