@@ -6,48 +6,58 @@
         "appID": "7VKZYG8P42.ru.hh.iphone",
         "paths": [
           "/search/vacancy*",
-          "NOT /vacancies_nearby",
           "NOT /vacancies/map",
           "/vacancies*",
           "/vacancy/*",
+          "NOT /article/*/?*",
+          "/article/*",
           "/applicant/resume/*",
           "/applicant/resumes",
+          "/applicant/resumes/?*/edit/?*",
           "NOT /applicant/resumes/*/?*",
           "/applicant/resumes/*",
           "/applicant/autosearch",
-          "/nearby"
+          "/nearby",
+          "employer_reviews/employers",
+          "employer_reviews/mine"
         ]
       },
       {
         "appID": "7VKZYG8P42.by.tut.jobs.employee",
         "paths": [
           "/search/vacancy*",
-          "NOT /vacancies_nearby",
           "NOT /vacancies/map",
           "/vacancies*",
           "/vacancy/*",
+          "NOT /article/*/?*",
+          "/article/*",
           "/applicant/resume/*",
           "/applicant/resumes",
+          "/applicant/resumes/?*/edit/?*",
           "NOT /applicant/resumes/*/?*",
           "/applicant/resumes/*",
           "/applicant/autosearch",
-          "/nearby"
+          "/nearby",
+          "employer_reviews/employers",
+          "employer_reviews/mine"
         ]
       },
       {
         "appID": "7VKZYG8P42.az.day.jobs.applicant",
         "paths": [
           "/search/vacancy*",
-          "NOT /vacancies_nearby",
           "NOT /vacancies/map",
           "/vacancies*",
           "/vacancy/*",
           "/applicant/resume/*",
           "/applicant/resumes",
+          "/applicant/resumes/?*/edit/?*",
           "NOT /applicant/resumes/*/?*",
           "/applicant/resumes/*",
           "/applicant/autosearch",
-          "/nearby"
+          "/nearby",
+          "employer_reviews/employers",
+          "employer_reviews/mine"
         ]
       },
       {
@@ -55,7 +65,8 @@
         "paths": [
           "/search/resume*",
           "/resume/*",
-          "/vacancy/*"
+          "/vacancy/*",
+          "/account/login/*"
         ]
       },
       {
@@ -63,7 +74,8 @@
         "paths": [
           "/search/resume*",
           "/resume/*",
-          "/vacancy/*"
+          "/vacancy/*",
+          "/account/login/*"
         ]
       }
     ]
